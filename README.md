@@ -1,4 +1,4 @@
-# TKS (Time Keeping Something)
+# TKS (Time Keeping System)
 
 This is an Atom language package for TKS.
 
@@ -14,3 +14,7 @@ WRMS is a whole other thing.
 
 * Total a day's figures?
 * Templates for your most used / fave / ticket-besties.
+* Highlight date lines
+* Highlight time entry lines
+* Lowlight comment lines
+* Review `/usr/share/tks/vim/*/tks.vim`
