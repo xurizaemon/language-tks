@@ -1,0 +1,16 @@
+{
+  "name": "language-tks",
+  "version": "0.0.1",
+  "description": "Atom language package for .tks, WRMS timekeeping format.",
+  "keywords": [
+    "language",
+    "grammar",
+    "wrms",
+    "tks"
+  ],
+  "repository": "https://github.com/xurizaemon/language-tks",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
