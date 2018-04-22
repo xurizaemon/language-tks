@@ -18,3 +18,5 @@ WRMS is a whole other thing.
 * Highlight time entry lines
 * Lowlight comment lines
 * Review `/usr/share/tks/vim/*/tks.vim`
+* Link WR to WRMS?
+* Show alert if entries on WRMS not shown locally
